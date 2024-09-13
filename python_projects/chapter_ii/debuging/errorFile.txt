@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "b:\ATBSWP\python_projects\chapter_ii\debuging\debugging.py", line 23, in <module>
+    raise Exception('This is a error message')
+Exception: This is a error message

@@ -1,0 +1,6 @@
+\d --- Any numeric digit from 0-9
+\D --- Any character that is not a numeric digit from 0-9
+\w --- Any character that is a letter (case doesnt matter) or number or underscore [A-Z, a-z, 0-9, _]
+\W --- Any character that is not a letter, number or underscore
+\s --- Any whitespace or tab or newline
+\S --- Any character that is not a whitespace, tab or newline

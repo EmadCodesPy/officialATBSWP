@@ -1,0 +1,12 @@
+soup.select('???')
+
+div --- All elements named <div>
+#author --- The element with an id attribute of author
+.notice --- All elements that use a CSS class attribute named notice
+div span --- All elements named <span> that are within an element named <div>
+div > span ---  All elements named <span> that are directly within an element named <div>,
+with no other element in between
+
+input[name] --- All elements named <input> that have a name attribute with any value
+input[type="button"] --- All elements named <input> that have an attribute named type
+with value button

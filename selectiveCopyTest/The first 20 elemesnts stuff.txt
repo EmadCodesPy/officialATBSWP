@@ -1,0 +1,33 @@
+Hydrogen	1+	Calcium
+Helium		0	-
+Lithium		1+	Calcium
+Beryllium	2+	Calcium
+Boron		3+	Calcium
+Carbon		4	-
+Nitrogen	1-	Anion
+Oxygen		-2	Anion
+Fluorin		-3	Anion
+Neon		0	-
+Sodium		1+	Calcium
+Magnesium	2+	Calcium
+Aluminium	3+	Calcium
+Silicon		4	-
+Phosphorus	1-	Anion
+Sulfur		-2	Anion
+Chlorine	-3	Anion
+Argon		0	-
+Potassium	+	Calcium
+Calcium		2+	Calcium
+
+
+Sodium floride		Na+ F-
+
+Magnesium sulfide	Mg2+ S-2
+
+Lithium oxide		Li+ 0-2
+
+Calcium nitride		Ca2+ N-3
+
+Potassium phosphide 	K+ P-
+
+aluminium chloride	Al3+ Cl-3

@@ -1,0 +1,7 @@
+1) Employee, Salesman, Manager
+
+2) ShareHolders
+
+3) Employee: be able to preform better to make better quality products
+   Salesman: be able to have good relationships with clients
+   Manager: be able to lead the employees and help them increase their effiency

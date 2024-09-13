@@ -1,1 +1,1 @@
-print('gitPullTest')
+print('gitPushTest')

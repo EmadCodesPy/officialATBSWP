@@ -1,5 +1,3 @@
-import re
-
 helloFile = open('/users/emad/desktop/hello.txt')
 helloContent = helloFile.read()
 #returns content of the file as one big string
